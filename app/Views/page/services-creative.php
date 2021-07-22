@@ -13,7 +13,7 @@
 	<meta property="og:description" content="Pesoros — Graphic Design, Product Photo & Video, Print Campaigns, Merchandising"/>
 	<meta property="og:type" content="article"/>
 	<meta property="og:url" content="https://pesoros.com/services-creative"/>
-	<meta property="og:image" content="https://pesoros.com/img/logo.jpg"/>
+	<meta property="og:image" content="assets/img/logo.jpg"/>
 
 <?= $this->endSection() ?>
  

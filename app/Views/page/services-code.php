@@ -13,7 +13,7 @@
 	<meta property="og:description" content="Pesoros — Website App, Mobile App, Office System App, Ecommerce, Landing Page"/>
 	<meta property="og:type" content="article"/>
 	<meta property="og:url" content="https://pesoros.com/services-code"/>
-	<meta property="og:image" content="https://pesoros.com/img/logo.jpg"/>
+	<meta property="og:image" content="assets/img/logo.jpg"/>
 
 <?= $this->endSection() ?>
  
