@@ -62,7 +62,7 @@
 								<div class="entry__article">
 									<p class="alignwide"></p>
 
-									<h3>Website App</h3>
+									<h2>Website App</h2>
 									
 									Website App adalah suatu aplikasi yang diakses menggunakan penjelajah web melalui suatu jaringan seperti Internet atau intranet. 
 									Ia juga merupakan suatu aplikasi perangkat lunak komputer yang dikodekan dalam bahasa yang didukung penjelajah web (seperti ASP, Perl, 
@@ -80,7 +80,7 @@
 
 									<p><br></p>
 
-									<h3>Mobile App</h3>
+									<h2>Mobile App</h2>
 
 									<p>Mobile App adalah program komputer yang dirancang untuk berjalan pada peranti bergerak seperti ponsel/tablet atau jam tangan. 
 										Aplikasi mobile sering kali dianggap sebagai kebalikan dari aplikasi desktop yang berjalan di komputer desktop, dan dengan 
@@ -93,7 +93,7 @@
 
 									<p><br></p>
 
-									<h3>Office System App</h3>
+									<h2>Office System App</h2>
 
 									<p>Office System App adalah seperangkat software yang berfungsi untuk mengelola dan mengintegrasikan berbagai aktivitas operasional dalam sebuah bisnis. 
 										Dulunya, Office System App adalah sistem yang lebih banyak digunakan oleh perusahaan-perusahaan berskala besar (enterprise), 
@@ -111,7 +111,7 @@
 
 									<p><br></p>
 
-									<h3>Ecommerce</h3>
+									<h2>Ecommerce</h2>
 
 									<p>Apa itu ecommerce? Electronic commerce atau ecommerce adalah segala aktivitas jual beli yang dilakukan melalui media elektronik. Meskipun sarananya meliputi televisi 
 										dan telepon, kini ecommerce lebih sering terjadi melalui internet.<br><br>
@@ -130,7 +130,7 @@
 
 									<p><br></p>
 
-									<h3>Landing Page</h3>
+									<h2>Landing Page</h2>
 
 									<p>Landing page adalah halaman dalam website yang didesain khusus dengan mindset marketing. 
 										Halaman inilah yang ditampilkan ketika pengunjung mengakses website dari hasil pencarian berbayar (paid search).</p>

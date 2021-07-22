@@ -61,7 +61,7 @@
 								<div class="entry__article">
 									<p class="alignwide"></p>
 
-									<h3>Branding</h3>
+									<h2>Branding</h2>
 
 									<p>Sebelum mengetahui apa itu branding, Anda perlu memahami dasar katanya, brand.<br><br>
 
@@ -83,7 +83,7 @@
 									
 									Bagi perusahaan hal ini bukan hanya sekedar merek atau produk Anda dikenal tetapi juga sebagai image perusahaan secara keseluruhan atau bagaimana masyarakat merasa bahwa perusahaan Anda merupakan yang terbaik.</p>
 
-									<h3>Unsur Branding</h3>
+									<h2>Unsur Branding</h2>
 
 									<ul>
 										<li><strong>Nama merek</strong> - Nama adalah hal pertama yang harus dipenuhi jika kita akan melakukan branding. Tanpa sebuah nama, maka produk tidak akan memiliki identitas yang akan memudahkannya untuk dikenali masyarakat.</li><br>
@@ -101,7 +101,7 @@
 
 									<p><br></p>
 
-									<h3>Visual Identity</h3>
+									<h2>Visual Identity</h2>
 
 									<p>Dalam ranah branding, visual identity memiliki makna sebagai segala bentuk identitas sebuah produk, brand, atau individu 
 										yang dapat diidentifikasi secara visual. Visual identity merupakan wajah pertama yang akan dikenali oleh masyarakat ketika 
@@ -115,7 +115,7 @@
 
 									<p><br></p>
 
-									<h3>Company Profile</h3>
+									<h2>Company Profile</h2>
 
 									<p>Company profile atau profil perusahaan merupakan sebuah media atau alat yang bermanfaat untuk memberikan informasi atau gambaran secara lengkap mengenail detail perusahaan. Secara umum company profile memiliki peran sebagai alat marketing yang ditujukan untuk memperoleh klien. Bisa dikatakan bahwa company profile memang wajib dimiliki oleh setiap perusahaan yang sedang beroperasi.<br><br>
 

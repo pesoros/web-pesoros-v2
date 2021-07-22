@@ -61,7 +61,7 @@
 								<div class="entry__article">
 									<p class="alignwide"></p>
 
-									<h3>Graphic Design</h3>
+									<h2>Graphic Design</h2>
 
 									<p>Desain grafis merupakan salah satu bentuk seni lukis untuk menciptakan atau mengatur elemen rupa seperti ilustrasi, foto, tulisan, dan garis di atas suatu media.<br><br>
 
@@ -80,7 +80,7 @@
 
 									<p><br></p>
 
-									<h3>Product Photo & Video</h3>
+									<h2>Product Photo & Video</h2>
 
 									<p>Visual berupa foto suatu produk yang akan dijual melalui toko online memiliki peran yang sangat penting dalam menunjang bisnis online. 
 										Bukan hanya melalui situs toko online saja, beberapa media promosi online seperti media sosial (khususnya Instagram, Twitter, dan Facebooks) 
@@ -93,7 +93,7 @@
 
 									<p><br></p>
 
-									<h3>Print Campaigns</h3>
+									<h2>Print Campaigns</h2>
 
 									<p>Print Campaigns adalah cara tercepat untuk mengkomunikasikan pesan kepada audiens target. 
 										Jika Print Campaigns di brosur, katalog cetak, flyer, poster bahkan billboard dilakukan secara kreatif dengan cara yang lucu, 
@@ -107,7 +107,7 @@
 
 									<p><br></p>
 
-									<h3>Merchandising</h3>
+									<h2>Merchandising</h2>
 
 									<p>Merchandise adalah salah satu pernak-pernik yang sering kali kita temui dan sudah banyak digunakan oleh berbagai pihak di dalam setiap acara atau event tertentu.<br><br>
 

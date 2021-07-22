@@ -62,7 +62,7 @@
 								<div class="entry__article">
 									<p class="alignwide"></p>
 
-									<h3>Event Branding</h3>
+									<h2>Event Branding</h2>
 									
 									Event branding adalah suatu hal yang dibutuhkan oleh perusahaan saat melaksanakan campaign.
 									Campaign atau event yang dilakukan bisa secara online maupun offline, lho.
@@ -77,7 +77,7 @@
 
 									<p><br></p>
 
-									<h3>Social Media Management</h3>
+									<h2>Social Media Management</h2>
 
 									<p>Social media management adalah proses membuat, menerbitkan, dan menganalisis konten yang Anda posting di platform media sosial seperti Facebook, 
 										Instagram, dan Twitter, serta terlibat dengan pengguna di platform tersebut. Anda dapat merampingkan manajemen media sosial dengan beragam tools 
@@ -90,7 +90,7 @@
 
 									<p><br></p>
 
-									<h3>Search Engine Optimization (SEO)</h3>
+									<h2>Search Engine Optimization (SEO)</h2>
 
 									<p>Search Engine Optimization atau SEO adalah upaya mengoptimasi website untuk mendapatkan peringkat teratas di hasil pencarian. 
 										Dengan mendapatkan ranking tinggi di hasil pencarian, potensi trafik organik Anda pun meningkat.<br><br>
@@ -108,7 +108,7 @@
 
 									<p><br></p>
 
-									<h3>Content</h3>
+									<h2>Content</h2>
 
 									<p>Menurut State of Digital Publishing, pembuat Content adalah seseorang yang bertanggung jawab untuk setiap informasi yang ada di media, 
 										terutama media digital.
@@ -129,7 +129,7 @@
 
 									<p><br></p>
 
-									<h3>Advertising Media</h3>
+									<h2>Advertising Media</h2>
 
 									<p>Advertising Media digunakan dalam industri periklanan untuk mengiklankan pesan atau produk. 
 										Di bidang pemasaran online, media periklanan termasuk dalam kategori pemasaran afiliasi.<br><br>
@@ -147,7 +147,7 @@
 
 									<p><br></p>
 
-									<h3>Digital Marketing</h3>
+									<h2>Digital Marketing</h2>
 
 									<p>Digital marketing adalah suatu kegiatan pemasaran atau promosi sebuah brand atau produk menggunakan media digital atau internet.<br><br>
 
