@@ -13,7 +13,7 @@
 	<meta property="og:description" content="Pesoros | Contact"/>
 	<meta property="og:type" content="article"/>
 	<meta property="og:url" content="https://pesoros.com/contact"/>
-	<meta property="og:image" content="assets/img/logo.jpg"/>
+	<meta property="og:image" content="https://pesoros.com/assets/img/logo.jpg"/>
 
 <?= $this->endSection() ?>
  

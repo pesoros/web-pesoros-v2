@@ -13,7 +13,7 @@
 	<meta property="og:description" content="Pesoros is a Digital Business Solution that offers end to end solutions with regards to developing business such as Web Development, SEO, Digital Advertising, Management System Software, Accounting System Software, Marketing System Software, Social Media Management, Product Photo & Video and Event Organizer."/>
 	<meta property="og:type" content="article"/>
 	<meta property="og:url" content="https://pesoros.com/"/>
-	<meta property="og:image" content="assets/img/logo.jpg"/>
+	<meta property="og:image" content="https://pesoros.com/assets/img/logo.jpg"/>
 
 <?= $this->endSection() ?>
 

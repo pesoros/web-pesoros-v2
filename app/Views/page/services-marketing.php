@@ -13,7 +13,7 @@
 	<meta property="og:description" content="Pesoros — Event Branding, Social Media Management, SEO, Content, Advertising Media, Digital Marketing"/>
 	<meta property="og:type" content="article"/>
 	<meta property="og:url" content="https://pesoros.com/services-marketing"/>
-	<meta property="og:image" content="assets/img/logo.jpg"/>
+	<meta property="og:image" content="https://pesoros.com/assets/img/logo.jpg"/>
 
 <?= $this->endSection() ?>
  

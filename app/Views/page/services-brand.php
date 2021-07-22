@@ -13,7 +13,7 @@
 	<meta property="og:description" content="Pesoros — Branding, Visual Identity, Company Profile"/>
 	<meta property="og:type" content="article"/>
 	<meta property="og:url" content="https://pesoros.com/services-brand"/>
-	<meta property="og:image" content="assets/img/logo.jpg"/>
+	<meta property="og:image" content="https://pesoros.com/assets/img/logo.jpg"/>
 
 <?= $this->endSection() ?>
  
