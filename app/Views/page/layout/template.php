@@ -180,7 +180,7 @@
 						<div class="col-md-6">
 							<a href="#home" class="logo__url">
 								<img class="logo" src="assets/img/logo/logo_white.png" 
-								srcset="assets/img/logo/logo_white.png 1x, img/logo/logo_white@2x.png 2x" alt="logo" itemtype="http://schema.org/Organization" itemscope>
+								srcset="assets/img/logo/logo_white.png 1x, assets/img/logo/logo_white@2x.png 2x" alt="logo" itemtype="http://schema.org/Organization" itemscope>
 							</a>
 						</div>
 						<div class="col-md-6">
